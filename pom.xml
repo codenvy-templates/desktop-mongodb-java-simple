@@ -47,7 +47,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>com.codenvy.example.kotlin.JavaHello</mainClass>
+                            <mainClass>com.codenvy.example.mongo.Application</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
