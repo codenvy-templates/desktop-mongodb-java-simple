@@ -55,8 +55,6 @@ public class Application {
             while (cursor2.hasNext()) {
                 System.out.println(cursor2.next());
             }
-
-            System.out.println("Done");
         } catch (UnknownHostException e) {
             e.printStackTrace();
         }
