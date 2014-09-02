@@ -1,1 +1,1 @@
-{"type":"maven","properties":[{"name":"builder.name","value":["maven"]}, {"name":"runner.name","value":["java-standalone-mongodb"]}]}
+{"attributes":{},"projectTypeId":"maven","builder":"maven","runner":"java-standalone-mongodb","defaultBuilderEnvironment":null,"defaultRunnerEnvironment":null,"builderEnvironmentConfigurations":{},"runnerEnvironmentConfigurations":{},"description":null}
